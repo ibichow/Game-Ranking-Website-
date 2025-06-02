@@ -1,0 +1,82 @@
+{
+    "1": {
+        "userid": 1,
+        "username": "john",
+        "useremail": "John@ps4games.com",
+        "fullname": "john doe",
+        "password": "john",
+        "favoritegame": "3"
+    },
+    "2": {
+        "userid": 2,
+        "username": "jane",
+        "useremail": "Jane@ps4games.com",
+        "fullname": "jane",
+        "password": "jane",
+        "favoritegame": 3
+    },
+    "3": {
+        "userid": 3,
+        "username": "roman",
+        "useremail": "Roman@ps4games.com",
+        "fullname": "roman",
+        "password": "roman",
+        "favoritegame": 7
+    },
+    "4": {
+        "userid": 4,
+        "username": "stevie",
+        "useremail": "Stevie@ps4games.com",
+        "fullname": "stevie",
+        "password": "stevie",
+        "favoritegame": 5
+    },
+    "5": {
+        "userid": 5,
+        "username": "natasha",
+        "useremail": "Natasha@ps4games.com",
+        "fullname": "natasha",
+        "password": "natasha",
+        "favoritegame": 8
+    },
+    "6": {
+        "userid": 6,
+        "username": "bruce",
+        "useremail": "Bruce@ps4games.com",
+        "fullname": "bruce",
+        "password": "bruce",
+        "favoritegame": 9
+    },
+    "7": {
+        "userid": 7,
+        "username": "jannet",
+        "useremail": "Jannet@ps4games.com",
+        "fullname": "jannet",
+        "password": "jannet",
+        "favoritegame": 10
+    },
+    "8": {
+        "userid": 8,
+        "username": "howie",
+        "useremail": "howie@ps4games.com",
+        "fullname": "howie",
+        "password": "howie",
+        "favoritegame": 2
+    },
+    "9": {
+        "userid": 9,
+        "username": "connor",
+        "useremail": "Connor@ps4games.com",
+        "fullname": "connor",
+        "password": "connor",
+        "favoritegame": 4
+    },
+    "10": {
+        "userid": 10,
+        "username": "peter",
+        "useremail": "Peter@ps4games.com",
+        "fullname": "peter",
+        "password": "peter",
+        "favoritegame": 9
+    }
+}

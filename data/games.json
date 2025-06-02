@@ -1,0 +1,202 @@
+[
+    {
+        "gameid": "1",
+        "title": "FIFA22 PS5",
+        "genre": "Sport",
+        "release date": "10/1/2021",
+        "age rating": "E",
+        "developer": "Electronic Arts Inc",
+        "platforms": "PS5",
+        "picture": "data/games/1.jpg",
+        "official reviews": [
+            "1",
+            "2",
+            "3"
+        ],
+        "retailers": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "gameid": "2",
+        "title": "FARMING SIMULATOR 22",
+        "genre": "Simulation",
+        "release date": "11/22/2021",
+        "age rating": "E",
+        "developer": "GIANTS Software",
+        "platforms": "PS4",
+        "picture": "data/games/2.webp",
+        "official reviews": [
+            "4",
+            "5",
+            "6"
+        ],
+        "retailers": [
+            "28",
+            "29",
+            "30"
+        ]
+    },
+    {
+        "gameid": "3",
+        "title": "BATTLEFIELD 2042",
+        "genre": "Shooter",
+        "release date": "3/4/2022",
+        "age rating": "16",
+        "developer": "Electronic Arts Inc",
+        "platforms": "PS4, PS5",
+        "picture": "data/games/3.webp",
+        "official reviews": [
+            "7",
+            "8",
+            "9"
+        ],
+        "retailers": [
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "gameid": "4",
+        "title": "GRAN TURISMO 7",
+        "genre": "Driving/Racing",
+        "release date": "3/4/2022",
+        "age rating": "16",
+        "developer": "Sony Interactive Entertainment",
+        "platforms": "PS4, PS5",
+        "picture": "data/games/4.jfif",
+        "official reviews": [
+            "12",
+            "10",
+            "11"
+        ],
+        "retailers": [
+            "7",
+            "8",
+            "9"
+        ]
+    },
+    {
+        "gameid": "5",
+        "title": "Sniper Ghost Warrior Contracts",
+        "genre": "Shooter",
+        "release date": "11/22/2019",
+        "age rating": "M",
+        "developer": "CI Games S.A",
+        "platforms": "PS4",
+        "picture": "data/games/5.webp",
+        "official reviews": [
+            "13",
+            "14",
+            "15"
+        ],
+        "retailers": [
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "gameid": "6",
+        "title": "SONIC COLOURS ULTIMATE",
+        "genre": "Action",
+        "release date": "9/7/2021",
+        "age rating": "16",
+        "developer": "SEGA of America, Inc.",
+        "platforms": "PS4",
+        "picture": "data/games/6.webp",
+        "official reviews": [
+            "16",
+            "17",
+            "18"
+        ],
+        "retailers": [
+            "13",
+            "14",
+            "15"
+        ]
+    },
+    {
+        "gameid": "7",
+        "title": "SAINTS ROW",
+        "genre": "Shooter",
+        "release date": "8/23/2022",
+        "age rating": "M",
+        "developer": "Deep Silver",
+        "platforms": "PS5",
+        "picture": "data/games/7.jpg",
+        "official reviews": [
+            "21",
+            "19",
+            "20"
+        ],
+        "retailers": [
+            "16",
+            "17",
+            "18"
+        ]
+    },
+    {
+        "gameid": "8",
+        "title": "MADDEN NFL 22",
+        "genre": "Sport",
+        "release date": "8/20/2021",
+        "age rating": "E",
+        "developer": "Electronic Arts Inc",
+        "platforms": "PS4, PS5",
+        "picture": "data/games/8.jfif",
+        "official reviews": [
+            "22",
+            "23",
+            "24"
+        ],
+        "retailers": [
+            "19",
+            "20",
+            "21"
+        ]
+    },
+    {
+        "gameid": "9",
+        "title": "SKATER XL",
+        "genre": "Sport",
+        "release date": "7/28/2020",
+        "age rating": "16",
+        "developer": "EASY DAY STUDIOS PTY LTD",
+        "platforms": "PS4",
+        "picture": "data/games/9.webp",
+        "official reviews": [
+            "25",
+            "26",
+            "27"
+        ],
+        "retailers": [
+            "22",
+            "23",
+            "24"
+        ]
+    },
+    {
+        "gameid": "10",
+        "title": "HUMAN: FALL FLAT",
+        "genre": "Action, Adventure, Puzzle",
+        "release date": "6/24/2021",
+        "age rating": "16",
+        "developer": "Curve Digital",
+        "platforms": "PS4, PS5",
+        "picture": "data/games/10.webp",
+        "official reviews": [
+            "28",
+            "29",
+            "30"
+        ],
+        "retailers": [
+            "25",
+            "26",
+            "27"
+        ]
+    }
+]
